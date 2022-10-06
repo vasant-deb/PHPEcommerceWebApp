@@ -1,53 +1,23 @@
-A simple PHP Shopping Cart built with CakePHP PHP framework.
+# CakePHP
 
-CakePHP 2.x rapid development php framework
+![Alt text](app/webroot/2.png?raw=true "Title")
 
-CakePHP DebugKit
+# CakePHP
 
-Bootstrap 3 front-end framework with Mobile Friendly Responsive design
+![Alt text](app/webroot/3.png?raw=true "Title")
 
-jQuery, jQuery UI JavaScript Library
+# CakePHP
 
-Authorize.net Payment Gateway for Credit Card Payment
+![Alt text](app/webroot/4.png?raw=true "Title")
 
-PayPal Express Checkout
+# CakePHP
 
-AJAX functions for search autocomplete, shopping cart updates
+![Alt text](app/webroot/5.png?raw=true "Title")
 
-Product Brands
+# CakePHP
 
-Product Categories
+![Alt text](app/webroot/6.png?raw=true "Title")
 
-Product Tags
+# CakePHP
 
-Product Options
-
-INCOMPLETE !
-
-//////////////////////////////////////////////////////////////////////////
-
-CakePHP Shopping Cart Installation:
-
-git clone https://github.com/andraskende/cakephp-shopping-cart.git cakephp-shopping-cart
-
-cd cakephp-shopping-cart
-
-chmod -R 777 app/tmp/
-
-mysql -u db_username -p db_password db_name < app/Config/Schema/shop.sql
-
-cp app/Config/settings-default.php app/Config/settings.php
-
-cp app/Config/database.php.default app/Config/database.php
-
-/admin
-
-username: admin
-
-password: admin
-
-Dont forget to change passwords, salt in core.php, etc...
-
-////////////////////////////////////////////////////////////////////
-
-
+![Alt text](app/webroot/7.png?raw=true "Title")
